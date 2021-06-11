@@ -1,0 +1,62 @@
+.App{
+
+  background-color: #3b4559;
+  
+}
+.App-header {
+    
+    min-height: 8vh;
+    display: flex;
+    flex-direction: column;
+    
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .cnop {
+    display: flex;
+    padding-left: 15%;
+  }
+  .text{
+    padding-left: 2%;
+    font-size: 15px;
+    padding-top: 20px;
+    text-decoration: solid;
+ 
+  }
+  .cnop img{
+    padding-top: 10px;
+  }
+  .text a{
+    color: azure;
+    text-decoration: none;
+  }
+  .text a{
+    color: azure;
+    text-decoration: none;
+  }
+  a.active{
+    color: brown;
+  }
+  a:hover{
+    color: chartreuse;
+  }
+  .lc{
+      
+     padding-left: 50%;
+     padding-top: 15px;
+     font-size: 20px;
+     
+    
+  }
+  .lc a{
+    
+    text-decoration: none;
+    color: rgb(185, 26, 26);
+    border-style: groove;
+    border-width: 2px;
+    border-color: aliceblue;
+  }
+  .lc a:hover{
+    color: darkblue;
+    
+  }
